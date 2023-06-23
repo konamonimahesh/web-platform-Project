@@ -1,0 +1,41 @@
+.fact {
+  color: #6f6f8e;
+  box-sizing: border-box;
+  justify-content: center;
+  margin-top: 150px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.breadcrumb {
+  color: #6f6f8e;
+  position: relative;
+  display: inline-flex;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 10px;
+  padding-left: 400px;
+}
+
+.introduction {
+  color: #6f6f8e;
+  box-sizing: border-box;
+  justify-content: center;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.first-section {
+  color: #6f6f8e;
+  box-sizing: border-box;
+  justify-content: center;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.second-section {
+  color: #6f6f8e;
+  font: weight 400px;
+  box-sizing: border-box;
+  justify-content: center;
+  margin-left: 350px;
+  margin-right: 350px;
+}
